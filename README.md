@@ -93,7 +93,7 @@ These plots visualize the trade-off between execution time and absolute error. A
 
 ![Efficiency for exp(-x^2)](./plots/2_efficiency_exp(-x2).png)
 ![Efficiency for sin(x)](./plots/2_efficiency_sin(x).png)
-![Efficiency for x^2](./plots/2_efficiency_x2).png
+![Efficiency for x^2](./plots/2_efficiency_x2.png).png
 
 **Interpretation:**
 *   **Computational Efficiency:** Simpson's Rule demonstrates exceptional computational efficiency. The plots show that a marginal increase in execution time yields a substantial reduction in error, making it highly effective for achieving high-precision results.
