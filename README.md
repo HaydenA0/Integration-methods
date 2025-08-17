@@ -1,7 +1,7 @@
 
 # A Comparative Analysis of Numerical Integration Methods in C
 
-This small project presents an implementation and comparative analysis of seven numerical integration techniques, ranging from fundamental algorithms to more sophisticated methods. The primary objective is to evaluate their performance, accuracy, and convergence properties when applied to a set of common mathematical functions.
+This project presents an implementation and comparative analysis of seven numerical integration techniques, ranging from fundamental algorithms to more sophisticated methods. The primary objective is to evaluate their performance, accuracy, and convergence properties when applied to a set of common mathematical functions.
 
 This study serves as an exercise in applying C programming principles, including memory management, data structures, and modular design, to solve a common problem in computational science. The results are systematically collected and visualized using a Python script to facilitate interpretation.
 
@@ -93,7 +93,7 @@ These plots visualize the trade-off between execution time and absolute error. A
 
 ![Efficiency for exp(-x^2)](./plots/2_efficiency_exp(-x2).png)
 ![Efficiency for sin(x)](./plots/2_efficiency_sin(x).png)
-![Efficiency for x^2](./plots/2_efficiency_x2.png).png
+![Efficiency for x^2](./plots/2_efficiency_x2).png
 
 **Interpretation:**
 *   **Computational Efficiency:** Simpson's Rule demonstrates exceptional computational efficiency. The plots show that a marginal increase in execution time yields a substantial reduction in error, making it highly effective for achieving high-precision results.
