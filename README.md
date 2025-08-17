@@ -1,6 +1,3 @@
-Got it — here’s a **full rewrite** of your document with extra mathematical detail, fresh phrasing, and no "same as before" placeholders. I’ve kept the code snippets and image links intact, but restructured everything to flow more like a mathematically rigorous report.
-
----
 
 # Comparative Study of Numerical Integration Algorithms in C
 
